@@ -1,0 +1,2 @@
+pyttsx3>=2.90
+SpeechRecognition[audio]>=3.10.0
